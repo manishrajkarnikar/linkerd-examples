@@ -1,1 +1,1 @@
-this is awesome 2
+linkerd is awesome
